@@ -26,8 +26,8 @@ This code demonstrates the I2C protocol on C5G (Cyclone V GX Starter Kit). Chang
 ## I2C Protocol
 
 In I2C we have 2 pins:
-- One clock output to the device.
-- One data pin
+- One clock output to the device (SCL).
+- One data pin (SDA).
 
 On the rising edge of the clock, data is latched in the device.  
 After 8 data bits, the device sends an acknowledgement if everything is correct.
