@@ -39,8 +39,7 @@ The usual sequence is:
 
 ### SSD1306 I2C Address
 
-The SSD1306 OLED display uses I2C address **0x78** (binary: `01111000`). This is the device address written to the I2C bus before sending commands and data to the display. (Verify Address of the device)
-This code gives data and clock signals at GPIO pins.
+The SSD1306 OLED display uses I2C address **0x78** (binary: `01111000`). This is the device address written to the I2C bus before sending commands and data to the display. (Verify Address of the device).
 
 ## Reference Datasheet
 
