@@ -53,6 +53,10 @@ The command sequences, initialization flow, and interface behavior were derived 
 
 - `rtl/` – FPGA HDL source files
 
+## Pin Planner
+<img width="937" height="102" alt="image" src="https://github.com/user-attachments/assets/d4144e60-8f21-4224-8100-ba16134b18e7" />
+
+
 ## Test Patterns
 
 <img width="499" height="285" alt="1" src="https://github.com/user-attachments/assets/3ad48184-390e-461a-8a3a-c98fbfe1ac8f" />
